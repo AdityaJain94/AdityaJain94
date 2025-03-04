@@ -20,7 +20,7 @@
 ## <div align="center">👋 Welcome to my GitHub profile</div>
 
 <div align="center">
-  <h3>I'm a tech enthusiast based in Delhi, India</h3>
+  <h3>I'm a Full Stack Developer and Designer based in Delhi, India</h3>
   <ul style="list-style-position: inside; text-align: center; padding-left: 0;">
     <li>🔭 Currently working as a <b>Technical Services Consultant</b></li>
     <li>🌱 Exploring <b>advanced system design & Web3 technologies</b></li>
