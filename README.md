@@ -102,7 +102,7 @@ const experience = {
 <div align="center">
   <b>Thank you for visiting my profile! Let's connect and build something amazing together.</b>
   
-  <img src="https://komarev.com/ghpvcounter/?username=AdityaJain94&color=3EAAED&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdityaJain94.AdityaJain94" alt="Profile Views"/>
 </div>
 
 <!-- Snake animation -->
