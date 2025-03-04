@@ -9,7 +9,7 @@ I'm Aditya Jain, Techincal Services Consultant as a Full-Stack Developer, Open S
 ## Quick overview
 
 #### GitHub stats 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/adityajain94/github-readme-stats">
   <img align="center" src="https://github-readme-stats.adityajain94.vercel.app/api?username=AdityaJain94&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
