@@ -34,13 +34,7 @@
   </a>
 </div>
 
-
-
-
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> 🌟 About Me
-<details>
-  <summary>Click to expand</summary>
 
 ### 🌐 Languages
 | Language | Proficiency | Level |
@@ -76,7 +70,7 @@
 
 ### 💼 Professional Experience
 
-javascript
+```javascript
 const experience = {
   current: {
     title: "Technical Services Consultant",
@@ -89,7 +83,7 @@ const experience = {
     devOps: ["Docker", "Kubernetes", "CI/CD", "AWS"]
   }
 };
-
+```
 
 ### 🏆 Projects & Achievements
 - 🚀 Built a custom full-stack SaaS platform for a startup
@@ -108,7 +102,6 @@ const experience = {
     </tr>
   </table>
 </div>
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -116,8 +109,6 @@ const experience = {
   <h3>🔥 Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
-
-
 
 <div align="center">
   <h3>Visitors Count</h3>  
