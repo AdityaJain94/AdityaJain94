@@ -57,8 +57,9 @@
 
 
 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> 🌟 About Me
 <details>
-  <summary><h2>🌟 About Me</h2></summary>
+  <summary>Click to expand</summary>
   <div>
     <h3>🌐 Languages</h3>
     <table>
@@ -159,16 +160,10 @@ const experience = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-<div align="center">
-  <h3>🎮 Let's play Rock, Paper, Scissors!</h3>
-  <a href="https://github.com/AdityaJain94?tab=repositories&sort=stargazers"><img alt="Rock" src="https://user-images.githubusercontent.com/65187002/172058691-d7f25ab8-1e30-42cf-8d45-98a2254abc33.svg"></a>
-  <a href="https://github.com/AdityaJain94?tab=followers"><img alt="Paper" src="https://user-images.githubusercontent.com/65187002/172058689-2d6d0ce7-c47e-4b80-8f58-fb6af6d75546.svg"></a>
-  <a href="https://github.com/AdityaJain94/AdityaJain94"><img alt="Scissors" src="https://user-images.githubusercontent.com/65187002/172058690-26e59402-3354-4f2a-8df5-6f6e3494764f.svg"></a>
-</div>
+
 
 <div align="center">
-  <br>
-  <p><b>Visitors Count</b></p>  
+  <h3>Visitors Count</h3>  
   <img src="https://profile-counter.glitch.me/{AdityaJain94}/count.svg" alt="Visitor Count" />
 </div>
 
