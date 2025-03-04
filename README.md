@@ -1,66 +1,113 @@
-# Hi everyone :wave:
+# <div align="center">👨‍💻 Aditya Jain</div>
 
-I'm Aditya Jain, Techincal Services Consultant as a Full-Stack Developer, Open Source Enthusiast and a Continuous Learner from Delhi,India.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3EAAED&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Technical+Services+Consultant;Open+Source+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-1F4037?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+</div>
+
+## <div align="center">👋 Welcome to my GitHub profile</div>
+
+<div align="center">
+<img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
+
+### I'm a tech enthusiast based in Delhi, India
+
+- 🔭 Currently working as a Technical Services Consultant
+- 🌱 Exploring advanced system design & Web3 technologies
+- 👯 Looking to collaborate on innovative open-source projects
+- 💬 Ask me about JavaScript, React, Node.js, and full-stack development
+- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+</div>
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Tech Stack</b>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,mongodb,postgres,aws,docker,git,figma&perline=5" />
+  </a>
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AdityaJain94&show_icons=true&count_private=true&hide_border=true&title_color=3EAAED&icon_color=3EAAED&text_color=c9d1d9&bg_color=0d1117" alt="Aditya Jain's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJain94&layout=compact&hide_border=true&title_color=3EAAED&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJain94&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 <details>
-<summary>
-  More stuff about me
-</summary>
+<summary><h2>🌟 More About Me</h2></summary>
 
-## Quick overview
+### 🌐 Languages
+| Language | Proficiency |
+|----------|-------------|
+| English  | Fluent      |
+| French   | Intermediate|
+| Russian  | Beginner    |
+| Hindi    | Native      |
 
-#### GitHub stats 
-<a href="https://github.com/adityajain94/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.adityajain94.vercel.app/api?username=AdityaJain94&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+### 📚 What I'm Learning
+- Advanced system design patterns
+- Web3 & blockchain development
+- AI/ML integration in web applications
+- Cloud architecture optimization
 
-(from [adityjain94/github-readme-stats](https://github.com/adityajain94/github-readme-stats))
+### 💼 Professional Experience
+```javascript
+const experience = {
+  current: {
+    title: "Technical Services Consultant",
+    focus: "Full-Stack Development",
+    technologies: ["React", "Node.js", "TypeScript", "AWS"]
+  },
+  skills: {
+    frontend: ["React", "Angular", "Next.js", "TailwindCSS"],
+    backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
+    devOps: ["Docker", "Kubernetes", "CI/CD", "AWS"]
+  }
+};
+```
 
-- I write a [blog](https://YOUR_BLOG_URL/)
+### 🏆 Projects & Achievements
+- Built a custom full-stack SaaS platform for a startup
+- Contributed to multiple open-source projects
+- Developed an automated deployment pipeline reducing downtime by 30%
+- Created a real-time collaborative tool using WebSockets
 
-Biggest supporters of my work:
-- [Supporter Name](https://github.com/AdityaJain94)
+### 📝 Featured Blog Posts
+- [How I Optimized Database Performance by 200%](https://your-blog.com)
+- [The Future of Web Development in 2025](https://your-blog.com)
+- [Best Practices for Secure API Development](https://your-blog.com)
 
-### What I do
+### 🤝 Open for
+- Open source collaboration
+- Technical writing opportunities
+- Mentorship and knowledge sharing
+- Interesting project ideas
+</details>
 
-[I specialize in full-stack web development, working with modern technologies to build scalable and efficient applications. Passionate about open-source contributions, I constantly explore new frameworks and architectures to improve my skill set. I believe in clean code, continuous learning, and problem-solving through technology.]
+---
 
-## My skills 📜
+<div align="center">
+  <b>Thank you for visiting my profile! Let's connect and build something amazing together.</b>
+  
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAdityaJain94&label=Visitors&labelColor=%23697689&countColor=%233EAAED)
+</div>
 
-### Web technologies
-	•	JavaScript (ES6+), TypeScript
-	•	React.js, Next.js, Angular
-	•	Node.js, Express.js
-	•	HTML5, CSS3, Tailwind CSS
-
-### Application Development
-	•	RESTful APIs, GraphQL
-	•	MongoDB, PostgreSQL, MySQL
-	•	Docker, Kubernetes
-
-### Other Skills
-	•	Git, GitHub, CI/CD
-	•	Cloud Services (AWS, Firebase)
-	•	DevOps & Automation
-
-### Languages 🌐
-
-| Language      | Proficiency                                         |
-| ------------- | --------------------------------------------------- |
-| English       | [Proficiency Level  - Fluent]                       |
-| French        | [Proficiency Level - Intermediate]                  |
-| Russian       | [Proficiency Level - Begineer]                      |
-| Hindi         | [Native language]                                   |
-
-## What I'm currently learning 📚
-
-	•	Advanced system design
-	•	Web3 & blockchain development
-	•	AI/ML basics for developers
-
-## Personal projects/achievements 🏆
-
-	•	Built a custom full-stack SaaS for a startup
-	•	Contributed to multiple open-source projects
-	•	Developed an automated deployment pipeline reducing downtime by 30%
-
-</details> 
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaJain94/AdityaJain94/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaJain94/AdityaJain94/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdityaJain94/AdityaJain94/output/github-contribution-grid-snake.svg">
+</picture>
