@@ -102,12 +102,10 @@ const experience = {
 <div align="center">
   <b>Thank you for visiting my profile! Let's connect and build something amazing together.</b>
   
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAdityaJain94&label=Visitors&labelColor=%23697689&countColor=%233EAAED)
+  <img src="https://komarev.com/ghpvcounter/?username=AdityaJain94&color=3EAAED&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaJain94/AdityaJain94/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaJain94/AdityaJain94/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdityaJain94/AdityaJain94/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://github.com/AdityaJain94/AdityaJain94/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
