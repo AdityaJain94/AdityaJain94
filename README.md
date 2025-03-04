@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  <a href="mailto:aditya.jain@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/adityajain94/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/adityajain94"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://adityajain.dev"><img src="https://img.shields.io/badge/Portfolio-1F4037?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-1F4037?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 ## <div align="center">👋 Welcome to my GitHub profile</div>
@@ -22,7 +22,6 @@
 - 🌱 Exploring advanced system design & Web3 technologies
 - 👯 Looking to collaborate on innovative open-source projects
 - 💬 Ask me about JavaScript, React, Node.js, and full-stack development
-- 🎮 Created an interactive RPG-style portfolio showcasing my journey
 </div>
 
 <br>
@@ -46,25 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJain94&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/AdityaJain94/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaJain94&repo=portfolio-website&title_color=3EAAED&icon_color=3EAAED&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/AdityaJain94/ai-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaJain94&repo=ai-lab&title_color=3EAAED&icon_color=3EAAED&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
-</div>
-
-## 🎨 Portfolio Highlights
-
-- **Interactive Portfolio Website**: Built with React, GSAP, Three.js and Tailwind CSS
-- **RPG-Style Experience**: Navigate through my professional journey as an adventure game
-- **AI Experiments Lab**: Showcasing various AI & ML implementation projects
-- **Certifications Gallery**: Interactive display of 50+ professional certifications
-- **3D Interactive Elements**: Using React Three Fiber for immersive experiences
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Click to Expand and Learn More About Me**
 <details>
 <summary><h3>🔎 Click here to see more details about my skills, experience and projects</h3></summary>
@@ -82,7 +62,6 @@
 - Web3 & blockchain development
 - AI/ML integration in web applications
 - Cloud architecture optimization
-- Three.js and WebGL for immersive web experiences
 
 ### 💼 Professional Experience
 ```javascript
@@ -93,7 +72,7 @@ const experience = {
     technologies: ["React", "Node.js", "TypeScript", "AWS"]
   },
   skills: {
-    frontend: ["React", "Angular", "Next.js", "TailwindCSS", "GSAP"],
+    frontend: ["React", "Angular", "Next.js", "TailwindCSS"],
     backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
     devOps: ["Docker", "Kubernetes", "CI/CD", "AWS"]
   }
@@ -101,16 +80,15 @@ const experience = {
 ```
 
 ### 🏆 Projects & Achievements
-- Built a custom RPG-style portfolio showcasing professional journey
-- Developed a comprehensive certifications management system
-- Created interactive 3D visualizations using Three.js and React Three Fiber
-- Implemented advanced animations with GSAP and Framer Motion
+- Built a custom full-stack SaaS platform for a startup
 - Contributed to multiple open-source projects
+- Developed an automated deployment pipeline reducing downtime by 30%
+- Created a real-time collaborative tool using WebSockets
 
 ### 📝 Featured Blog Posts
-- [Building an RPG Portfolio with React and Kaboom.js](https://your-blog.com)
-- [Managing 50+ Certificates in a React Application](https://your-blog.com)
-- [Creating Smooth Animations with GSAP in React](https://your-blog.com)
+- [How I Optimized Database Performance by 200%](https://your-blog.com)
+- [The Future of Web Development in 2025](https://your-blog.com)
+- [Best Practices for Secure API Development](https://your-blog.com)
 
 ### 🤝 Open for
 - Open source collaboration
@@ -130,4 +108,4 @@ const experience = {
 <!-- Snake animation -->
 <div align="center">
   <img src="https://github.com/AdityaJain94/AdityaJain94/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+</div> 
