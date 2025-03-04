@@ -1,59 +1,66 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaJain94&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Aditya Jain's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-jain&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
+# Hi everyone :wave:
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-</p>
+I'm Aditya Jain, Techincal Services Consultant as a Full-Stack Developer, Open Source Enthusiast and a Continuous Learner from Delhi,India.
+<details>
+<summary>
+  More stuff about me
+</summary>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-jain&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+## Quick overview
 
-<div align="center">
-  <img src="https://komarev.com/ghpvcounter/?username=aditya-jain&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
+#### GitHub stats 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.adityajain94.vercel.app/api?username=AdityaJain94&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
 
-<div align="center">
-  <a href="mailto:adityajain1080@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/adityajain94/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/artbyadityajain">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
+(from [anuraghazra/github-readme-stats](https://github.com/adityajain94/github-readme-stats))
 
-<!-- For the Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditya-jain/aditya-jain/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditya-jain/aditya-jain/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aditya-jain/aditya-jain/output/github-contribution-grid-snake.svg">
-</picture>
+- I write a [blog](https://YOUR_BLOG_URL/)
+
+Biggest supporters of my work:
+- [Supporter Name](https://github.com/AdityaJain94)
+
+### What I do
+
+[I specialize in full-stack web development, working with modern technologies to build scalable and efficient applications. Passionate about open-source contributions, I constantly explore new frameworks and architectures to improve my skill set. I believe in clean code, continuous learning, and problem-solving through technology.]
+
+## My skills 📜
+
+### Web technologies
+	•	JavaScript (ES6+), TypeScript
+	•	React.js, Next.js, Angular
+	•	Node.js, Express.js
+	•	HTML5, CSS3, Tailwind CSS
+
+### Application Development
+	•	RESTful APIs, GraphQL
+	•	MongoDB, PostgreSQL, MySQL
+	•	Docker, Kubernetes
+
+### Other Skills
+	•	Git, GitHub, CI/CD
+	•	Cloud Services (AWS, Firebase)
+	•	DevOps & Automation
+
+### Languages 🌐
+
+| Language      | Proficiency                                         |
+| ------------- | --------------------------------------------------- |
+| English       | [Proficiency Level  - Fluent]                       |
+| French        | [Proficiency Level - Intermediate]                  |
+| Russian       | [Proficiency Level - Begineer]                      |
+| Hindi         | [Native language]                                   |
+
+## What I'm currently learning 📚
+
+	•	Advanced system design
+	•	Web3 & blockchain development
+	•	AI/ML basics for developers
+
+## Personal projects/achievements 🏆
+
+	•	Built a custom full-stack SaaS for a startup
+	•	Contributed to multiple open-source projects
+	•	Developed an automated deployment pipeline reducing downtime by 30%
+
+</details> 
