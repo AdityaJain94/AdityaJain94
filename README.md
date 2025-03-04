@@ -46,8 +46,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJain94&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Click to Expand and Learn More About Me**
 <details>
-<summary><h2>🌟 More About Me</h2></summary>
+<summary><h3>🔎 Click here to see more details about my skills, experience and projects</h3></summary>
 
 ### 🌐 Languages
 | Language | Proficiency |
