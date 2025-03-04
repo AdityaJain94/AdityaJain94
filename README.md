@@ -60,63 +60,42 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> 🌟 About Me
 <details>
   <summary>Click to expand</summary>
-  <div>
-    <h3>🌐 Languages</h3>
-    <table>
-      <tr>
-        <th>Language</th>
-        <th>Proficiency</th>
-        <th>Level</th>
-      </tr>
-      <tr>
-        <td>English</td>
-        <td>Fluent</td>
-        <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>French</td>
-        <td>Intermediate</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Russian</td>
-        <td>Beginner</td>
-        <td>⭐</td>
-      </tr>
-      <tr>
-        <td>Hindi</td>
-        <td>Native</td>
-        <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-    </table>
 
-    <h3>📚 What I'm Learning</h3>
-    <div align="center">
-      <table>
-        <tr>
-          <td align="center">
-            <img src="https://img.icons8.com/color/48/000000/blockchain-technology.png" alt="blockchain"/>
-            <br />Web3 & Blockchain
-          </td>
-          <td align="center">
-            <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="ai"/>
-            <br />AI/ML Integration
-          </td>
-          <td align="center">
-            <img src="https://img.icons8.com/color/48/000000/cloud-computing.png" alt="cloud"/>
-            <br />Cloud Architecture
-          </td>
-          <td align="center">
-            <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="api"/>
-            <br />System Design
-          </td>
-        </tr>
-      </table>
-    </div>
+### 🌐 Languages
+| Language | Proficiency | Level |
+|----------|-------------|-------|
+| English  | Fluent      | ⭐⭐⭐⭐⭐ |
+| French   | Intermediate| ⭐⭐⭐ |
+| Russian  | Beginner    | ⭐ |
+| Hindi    | Native      | ⭐⭐⭐⭐⭐ |
 
-    <h3>💼 Professional Experience</h3>
-    
-```javascript
+### 📚 What I'm Learning
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/blockchain-technology.png" alt="blockchain"/>
+        <br />Web3 & Blockchain
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="ai"/>
+        <br />AI/ML Integration
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/cloud-computing.png" alt="cloud"/>
+        <br />Cloud Architecture
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="api"/>
+        <br />System Design
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 💼 Professional Experience
+
+javascript
 const experience = {
   current: {
     title: "Technical Services Consultant",
@@ -129,28 +108,25 @@ const experience = {
     devOps: ["Docker", "Kubernetes", "CI/CD", "AWS"]
   }
 };
-```
 
-    <h3>🏆 Projects & Achievements</h3>
-    <ul>
-      <li>🚀 Built a custom full-stack SaaS platform for a startup</li>
-      <li>🌟 Contributed to multiple open-source projects</li>
-      <li>⚙️ Developed an automated deployment pipeline reducing downtime by 30%</li>
-      <li>🔄 Created a real-time collaborative tool using WebSockets</li>
-    </ul>
 
-    <h3>🤝 Open for</h3>
-    <div align="center">
-      <table>
-        <tr>
-          <td align="center"><img src="https://img.icons8.com/color/48/000000/code-fork.png"/><br/>Open Source</td>
-          <td align="center"><img src="https://img.icons8.com/color/48/000000/hand-with-pen.png"/><br/>Technical Writing</td>
-          <td align="center"><img src="https://img.icons8.com/color/48/000000/conference-call.png"/><br/>Mentorship</td>
-          <td align="center"><img src="https://img.icons8.com/color/48/000000/idea.png"/><br/>Project Ideas</td>
-        </tr>
-      </table>
-    </div>
-  </div>
+### 🏆 Projects & Achievements
+- 🚀 Built a custom full-stack SaaS platform for a startup
+- 🌟 Contributed to multiple open-source projects
+- ⚙️ Developed an automated deployment pipeline reducing downtime by 30%
+- 🔄 Created a real-time collaborative tool using WebSockets
+
+### 🤝 Open for
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/code-fork.png"/><br/>Open Source</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/hand-with-pen.png"/><br/>Technical Writing</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/conference-call.png"/><br/>Mentorship</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/idea.png"/><br/>Project Ideas</td>
+    </tr>
+  </table>
+</div>
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
