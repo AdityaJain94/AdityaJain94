@@ -34,23 +34,7 @@
   </a>
 </div>
 
-<details open>
-  <summary><h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> My GitHub Stats</h2></summary>
-  <div>
-    <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AdityaJain94&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-      </a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaJain94&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AdityaJain94" height="230px"/>
-    </p>
-    <p align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=AdityaJain94&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-    </p>
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJain94&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </p>
-  </div>
-</details>
+
 
 
 
