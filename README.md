@@ -150,91 +150,13 @@ const experience = {
   </table>
 </div>
 
-<!-- AI Chat Simulation Section -->
-<h1 align="center">💬 Ask Me Anything</h1>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl4NTRoeHJ3YnY3ZWlrbjN1NnE1cWprbnIzdWpveDRsN2txMmxhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3nWmPFBPm1wauRvG/giphy.gif" width="200px" alt="AI Assistant Animation">
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none;">
-        <div align="center" style="background-color: #1F222E; border-radius: 10px; padding: 15px; margin: 10px; border: 1px solid #7cebf5;">
-          <p style="color: #7cebf5; font-weight: bold;">👋 Hi! I'm Aditya's virtual assistant.</p>
-          <p>Try asking me one of these questions:</p>
-          <ul align="left" style="color: #c9d1d9;">
-            <li>"What technologies do you work with?"</li>
-            <li>"Tell me about your experience in full-stack development"</li>
-            <li>"What open-source projects have you worked on?"</li>
-            <li>"How can we collaborate?"</li>
-          </ul>
-          <p><i>...or connect with me directly using the links above!</i></p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Interactive Project Showcase -->
-<h1 align="center">🤖 AI & Innovation Projects</h1>
-
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*WM5EJlaQBz5FUZfGnWxRKg.gif" width="550px" alt="AI Brain Animation">
-  
-  <div style="margin-top: 20px; background-color: #1F222E; border-radius: 10px; padding: 15px; max-width: 600px; margin-left: auto; margin-right: auto; border: 1px solid #7cebf5;">
-    <h3 style="color: #7cebf5;">Current Innovation Focus</h3>
-    <ul align="left" style="color: #c9d1d9;">
-      <li>🧠 Building intelligent chatbots with advanced NLP capabilities</li>
-      <li>🔄 Creating real-time collaboration tools with AI assistance</li>
-      <li>⚙️ Developing predictive analytics dashboards for business intelligence</li>
-      <li>🔗 Integrating blockchain solutions with traditional web applications</li>
-    </ul>
-  </div>
-</div>
-
-<!-- Interactive Music Player -->
-<h1 align="center">🎵 Code to Music</h1>
-
-<div align="center">
-  <table style="border-collapse: collapse; margin: 0 auto; background-color: #1F222E; border-radius: 10px; overflow: hidden; border: 1px solid #7cebf5;">
-    <tr>
-      <td colspan="5" style="padding: 15px; text-align: center;">
-        <p style="font-size: 16px; margin: 0;">Currently Playing: <b style="color: #7cebf5;">Coding Lofi Beats</b></p>
-        <div style="background-color: #2d3748; height: 6px; width: 300px; border-radius: 3px; margin: 10px auto; position: relative; overflow: hidden;">
-          <div style="background-color: #7cebf5; height: 100%; width: 45%; border-radius: 3px; position: absolute;"></div>
-        </div>
-        <p style="font-size: 12px; margin: 0; color: #a0aec0;">1:25 / 3:42</p>
-      </td>
-    </tr>
-    <tr style="text-align: center;">
-      <td style="padding: 10px;"><a href="#" style="color: #7cebf5;">⏮️</a></td>
-      <td style="padding: 10px;"><a href="#" style="color: #7cebf5;">⏪</a></td>
-      <td style="padding: 10px;"><a href="#" style="color: #7cebf5;">▶️</a></td>
-      <td style="padding: 10px;"><a href="#" style="color: #7cebf5;">⏩</a></td>
-      <td style="padding: 10px;"><a href="#" style="color: #7cebf5;">⏭️</a></td>
-    </tr>
-    <tr>
-      <td colspan="5" style="padding: 5px 15px 15px; text-align: center;">
-        <p style="font-size: 12px; margin: 0; color: #a0aec0;">Coding sessions are better with music. Tune in while exploring my repositories!</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- Visitor Counter Section -->
 <div align="center" style="margin-top: 30px;">
   <h2>✨ Visitors</h2>  
   <img src="https://profile-counter.glitch.me/{AdityaJain94}/count.svg" alt="Visitor Count" />
   <p><i>Thanks for stopping by!</i></p>
-</div>
-
-<!-- Contact Animation -->
-<div align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="200px" alt="Handshake">
-  <p><b>Let's connect and build something amazing together!</b></p>
 </div>
 
 <!-- Last Refreshed Section -->
