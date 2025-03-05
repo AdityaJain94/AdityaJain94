@@ -1,12 +1,18 @@
-<!-- Header Section -->
+<!-- Custom Banner Image -->
 <div align="center">
-  <h1>👨‍💻 Aditya Jain</h1>
-  <p>Full-Stack Developer | Technical Services Consultant | Building the Future, One Line at a Time</p>
+  <img src="https://raw.githubusercontent.com/AdityaJain94/AdityaJain94/main/cyberpunk-banner.png" width="100%" alt="Cyberpunk Banner">
 </div>
 
-<!-- Profile GIF or Image Section -->
+<!-- RPG Style Name Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px" alt="Matrix Animation">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=ADITYA+JAIN;LEVEL+99+DEVELOPER;TECH+WIZARD;CODE+MASTER" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Profile Subtitle -->
+<div align="center">
+  <p>Full-Stack Developer | Technical Services Consultant | Building the Future, One Line at a Time</p>
 </div>
 
 <!-- Social Icons Section -->
@@ -175,3 +181,7 @@
   <img src="https://profile-counter.glitch.me/{AdityaJain94}/count.svg" alt="Visitor Count" />
   <p><i>Thanks for stopping by!</i></p>
 </div>
+
+<!-- Note about the banner image -->
+<!-- You'll need to upload your cyberpunk banner image to your GitHub repository first -->
+<!-- Then replace "cyberpunk-banner.png" with the actual filename -->
