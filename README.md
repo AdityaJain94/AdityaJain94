@@ -5,9 +5,10 @@
 <div>
 </div>
 <!-- RPG Style Name Animation -->
+<!-- RPG Style Name Animation with increased width -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=ADITYA+JAIN;LEVEL+99+DEVELOPER;TECH+WIZARD;CODE+MASTER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=800&lines=ADITYA+JAIN;LEVEL+99+DEVELOPER;TECH+WIZARD;CODE+MASTER" alt="Typing SVG" />
   </a>
 </div>
 
