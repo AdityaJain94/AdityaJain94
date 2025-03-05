@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AdityaJain94/AdityaJain94/main/cyberpunk-banner.png" width="100%" alt="Cyberpunk Banner">
 </div>
-
+<a>
+</a>
 <!-- RPG Style Name Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
