@@ -2,8 +2,8 @@
 <div align="center">
   <img src="https://i.imgur.com/YILAMQo.png" width="100%" alt="Cyberpunk Banner">
 </div>
-<a>
-</a>
+<div>
+</div>
 <!-- RPG Style Name Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
