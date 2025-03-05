@@ -1,9 +1,7 @@
 <!-- Custom Banner Image -->
 <div align="center">
   <img src="https://i.imgur.com/YILAMQo.png" width="100%" alt="Cyberpunk Banner">
-</div><br></br>
-<div>
-</div>
+
 
 <!-- RPG Style Name Animation with increased width and height -->
 <div align="center">
