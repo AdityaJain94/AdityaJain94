@@ -1,6 +1,6 @@
 <!-- Custom Banner Image -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AdityaJain94/AdityaJain94/main/cyberpunk-banner.png" width="100%" alt="Cyberpunk Banner">
+  <img src="https://imgur.com/a/dpyiJtk" width="100%" alt="Cyberpunk Banner">
 </div>
 <a>
 </a>
